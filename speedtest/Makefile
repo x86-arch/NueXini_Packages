@@ -7,7 +7,7 @@
 
 include $(TOPDIR)/rules.mk
 
-PKG_ARCH:=x86_64
+PKG_ARCH:=aarch64
 PKG_NAME:=speedtest
 PKG_VERSION:=1.0.0
 PKG_RELEASE:=5
